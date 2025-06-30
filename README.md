@@ -8,7 +8,7 @@ Silahkan Atur Jadwal Pendakianmu !!!  Open Trip atau Private Trip  Guide dan Por
   <section id="artikel">
     <h2>Tips Travelling</h2>
     <article>
-      <h3>5 Tips Naik Gunung untuk Pemula</h3>
+      <h3> Tips Naik Gunung untuk Pemula</h3>
       <p>Pastikan kondisi tubuh fit, bawa perlengkapan standar, dan jangan lupa sampah dibawa turun!</p>
     </article>
   </section>
